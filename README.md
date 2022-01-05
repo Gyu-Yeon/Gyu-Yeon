@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 </div>
  
  <h3 align="center">🪄 PROJECTS 🪄</h3>
+ <br><br>
  
-  http://potential0625.dothome.co.kr/index.html
+   * <a href="http://potential0625.dothome.co.kr/index.html"> HTML & CSS & JAVASCRIPT Work </a>
 
