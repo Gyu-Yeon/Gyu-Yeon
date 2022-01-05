@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center">
+   Hi there 👋 </h3>
+   <br>
 
 <!--
 **Gyu-Yeon/Gyu-Yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,5 +48,6 @@ Here are some ideas to get you started:
   
 </div>
  
-
-
+ <h3 align="center">🪄 PROJECTS 🪄</h3>
+ 
+  [!](http://potential0625.dothome.co.kr/index.html)
