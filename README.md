@@ -51,5 +51,5 @@ Here are some ideas to get you started:
  <h3 align="center">🪄 PROJECTS 🪄</h3>
  <br><br>
  
-   * <a href="http://potential0625.dothome.co.kr/index.html"> HTML & CSS & JAVASCRIPT Work </a>
+   * <a href="http://potential0625.dothome.co.kr/index.html"> HTML & CSS & JAVASCRIPT Work </a>  <b> 2021.09 </b>
 
