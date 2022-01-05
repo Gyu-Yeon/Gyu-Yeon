@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 </p>
 
   <br>  
-<p align="center">  
   
-![Johnny's gitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyChoi&theme=react&show_icons=true)   
-</p>
+<div align="center">
+   
+ ![Johnny's gitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyChoi&theme=react&show_icons=true)   
+  
+</div>
+ 
+
+
