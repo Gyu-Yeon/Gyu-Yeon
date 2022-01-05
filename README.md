@@ -50,4 +50,5 @@ Here are some ideas to get you started:
  
  <h3 align="center">🪄 PROJECTS 🪄</h3>
  
-  [!](http://potential0625.dothome.co.kr/index.html)
+  
+<img width="460" height="300" src="https://github.com/Gyu-Yeon/Gyu-Yeon/blob/main/img.jpg?raw=true">
