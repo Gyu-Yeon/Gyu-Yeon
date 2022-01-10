@@ -44,7 +44,8 @@ Here are some ideas to get you started:
   
 <div align="center">
    
- ![Johnny's gitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyChoi&theme=react&show_icons=true)   
+
+ ![Johnny's gitHub stats](https://github-readme-stats.vercel.app/api?username=gyu-yeon&theme=react&show_icons=true)  
   
 </div>
  
